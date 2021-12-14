@@ -1,0 +1,11 @@
+.noScroll::-webkit-scrollbar {
+  display: none;
+}
+
+.noFocus:focus {
+  outline: none;
+}
+.btn-hover:hover {
+  color: black !important;
+  cursor: pointer;
+}
